@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "read": "閱讀",
+    "write": "投稿",
+    "member": {
+      "profile": "個人檔案",
+      "artworks": "我的作品",
+      "series": "我的系列",
+      "collections": "我的收藏"
+    },
+    "user": {
+      "artworks": "作品",
+      "series": "系列",
+      "collections": "收藏"
+    }
+  },
+  "artwork": {
+    "type": "類型",
+    "type_option": {
+      "IMAGE": "插畫",
+      "MANGA": "漫畫",
+      "NOVEL": "小說"
+    },
+    "title": "標題",
+    "body": "本文",
+    "desc": "描述",
+    "files": "檔案",
+    "series": "系列",
+    "tags": "標籤",
+    "forbid_tags": "禁止其他人編輯標籤",
+    "rating": "年齡限制",
+    "rating_option": {
+      "G": "全年齡",
+      "R-18": "R-18",
+      "R-18G": "R-18G"
+    },
+    "visibility": "公開範圍",
+    "visibility_option": {
+      "ALL": "全公開",
+      "FOLLOWERS": "追蹤我的人",
+      "MUTUAL_FOLLOWERS": "互相追蹤",
+      "LINK": "僅限連結",
+      "SELF": "只有我"
+    },
+    "original": "原創作品",
+    "forbid_comments": "關閉留言功能",
+    "comments_forbidden": "作者已關閉留言功能",
+    "rps": "RPS",
+    "ctime": "建立時間",
+    "mtime": "更新時間",
+    "published": "已發布",
+    "target": "取向",
+    "target_option": {
+      "NONE": "無",
+      "BG": "BG向",
+      "BL": "BL向",
+      "GL": "GL向",
+      "YUME": "夢向"
+    }
+  },
+  "tag": {
+    "original": "原創",
+    "derivative": "二創",
+    "rps": "RPS"
+  },
+  "series": {
+    "no_series": "單篇作品",
+    "add": "新增系列",
+    "title": "標題",
+    "desc": "簡介",
+    "end": "已完結",
+    "original": "原創",
+    "genre": "類別"
+  },
+  "info": {
+    "num_comments": "{0} 則留言",
+    "ago_years": "{0} 年前",
+    "ago_months": "{0} 個月前",
+    "ago_days": "{0} 天前",
+    "ago_hours": "{0} 小時前",
+    "ago_minutes": "{0} 分前",
+    "ago_now": "剛剛",
+    "num_replies_expand": "關閉 {0} 則回覆",
+    "num_replies_collapse": "展開 {0} 則回覆"
+  },
+  "member": {
+    "following": "追蹤中",
+    "num_followings": "追蹤 {0} 人",
+    "num_followers": "受 {0} 人追蹤",
+    "profile": {
+      "id_url": "URL ID",
+      "show": "顯示",
+      "address": "住址",
+      "birth": "生日",
+      "career": "職業",
+      "email": "Email",
+      "family_name": "姓",
+      "given_name": "名",
+      "name": "暱稱",
+      "gender": "性別",
+      "self_intro": "自介"
+    }
+  },
+  "collection": {
+    "add_to": "加入到收藏集...",
+    "new_collection": "新建收藏集",
+    "name": "名稱",
+    "visibility": "公開範圍",
+    "visibility_option": {
+      "ALL": "公開",
+      "LINK": "僅限連結",
+      "SELF": "只有我"
+    }
+  },
+  "action": {
+    "save": "儲存",
+    "create": "建立",
+    "revert": "還原",
+    "publish": "發布",
+    "sign_in": "登入",
+    "sign_out": "登出",
+    "follow": "追蹤",
+    "unfollow": "取消追蹤",
+    "cancel": "取消",
+    "comment": "留言",
+    "add": "新增",
+    "reply": "回覆",
+    "choose_files": "選擇檔案",
+    "like": "讚",
+    "share": "分享",
+    "collect": "收藏",
+    "del": "刪除",
+    "goto": "前往"
+  }
+}
